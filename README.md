@@ -1,0 +1,1 @@
+# trackmania-map-assets
