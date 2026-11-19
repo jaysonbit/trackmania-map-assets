@@ -1,0 +1,15 @@
+# Treat game assets as binary so git never tries to diff or normalize them.
+# NOTE: Do NOT use Git LFS here - raw.githubusercontent.com serves LFS pointer
+# files instead of the real content, which breaks the URLs in-game.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.dds  binary
+*.tga  binary
+*.webm binary
+*.ogg  binary
+*.mp3  binary
+*.wav  binary
+*.zip  binary
+*.gbx  binary
+*.Gbx  binary

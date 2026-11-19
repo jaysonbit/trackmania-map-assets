@@ -1,0 +1,12 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Working/source files - keep the repo to final, game-ready assets
+*.psd
+*.xcf
+*.kra
+*.blend
+*.blend1
+*.tmp
